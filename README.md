@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [TRMLabs](https://www.trmlabs.com/)
 
-- 🌱 Currenly I'm learning **more about DB backend solutions and DS is a road rather than a goal.**
+- 🌱 Currenly I'm learning **more about DB backend solutions.**
+
+- 🧨 DS is a road rather than a goal!
 
 - 🌱 Get to know more about me at [my mini bio page](https://carloseduardo.omg.lol/)
 
