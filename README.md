@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TRMLabs](https://www.trmlabs.com/)
 
-- 🌱 Currenly I'm learning **more about DB backend solutions.**
+- 🌱 Currently I'm learning **more about DB backend solutions.**
 
 - 🧨 DS is a road rather than a goal!
 
