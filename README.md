@@ -12,7 +12,7 @@
 
 - 🌱 Get to know more about me at [my mini bio page](https://carloseduardo.omg.lol/)
 
-- 💬 Ask me about **Causality, GCP, Financial Data Science, Time Series**
+- 💬 Ask me about **Causality, GCP, Financial Data Science, and Time Series**
 
 - 📫 How to reach me **carlose.cortesg@gmail.com**
 
