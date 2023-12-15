@@ -16,5 +16,5 @@
 
 - 📫 How to reach me **carlose.cortesg@gmail.com**
 
-- ⚡ Fun fact **I do like birdwatching and Data Viz a lot**
+- ⚡ Fun fact **I do like birdwatching and Data Vizualization a lot**
 
