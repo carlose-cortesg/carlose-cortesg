@@ -2,7 +2,6 @@
 <h3 align="center">Data sometimes Scientist, Researcher or Engineer. Data enthusiast.</h3> 
 <h4 align="center">Ave de Mal Agüero.</h4>
  
-
 - 🇨🇴 Colombian, with formal training in Stats and Causality Research. 
  
 - 🔭 I’m currently working on [TRMLabs](https://www.trmlabs.com/) 
