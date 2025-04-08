@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on [Allium](https://www.allium.so/)  
 
-- 🌱 Currently I'm learning **more about DB backend solutions.**
+- 🌱 Currently I'm learning **more about DB management**
  
 - 🧨 DS is a road rather than a goal! 
 
